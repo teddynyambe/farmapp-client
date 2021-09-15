@@ -1,0 +1,3 @@
+enum SizeType {
+  Acres, Hectares
+}

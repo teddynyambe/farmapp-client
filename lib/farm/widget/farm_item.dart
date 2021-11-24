@@ -1,4 +1,4 @@
-import 'package:farmapp_mobile/farm/view/farm_screen.dart';
+import 'package:farmapp_mobile/farm/view/crud_farm_screen.dart';
 import 'package:farmapp_mobile/farm/view_model/farm_viewmodel.dart';
 import 'package:farmapp_mobile/farm/view_model/farmactivitylist_modelview.dart';
 import 'package:farmapp_mobile/more_settings/model_view/specielist_viewmodel.dart';
